@@ -1,4 +1,4 @@
-#Pokemon Raid Shodown Chrome Extension
+# Pokemon Raid Shodown Chrome Extension
 
 This is the code for a chrome extension that sets things up in Pokemon Showdown.
 A small dropdown is added to the site under the left Pokemon Field, in there you can select from Raid level 4 to 7.
