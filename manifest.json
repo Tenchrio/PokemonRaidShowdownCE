@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Pokemon Raid Extension",
+  "version": "0.2",
+  "permissions" : ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://calc.pokemonshowdown.com/"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+  "128": "icon.png"
+}
+}
